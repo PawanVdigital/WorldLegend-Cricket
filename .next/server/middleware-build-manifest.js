@@ -10,11 +10,6 @@ self.__BUILD_MANIFEST = {
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -30,10 +25,10 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/teams.js"
     ],
-    "/videos": [
+    "/teams/india-champions": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/videos.js"
+      "static/chunks/pages/teams/india-champions.js"
     ]
   },
   "ampFirstPages": []
